@@ -20,7 +20,11 @@ title                    : "Go - Null"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jihyun"
+<<<<<<< HEAD
 description              : "보초 개발자"
+=======
+description              : "Basic Blog"
+>>>>>>> 941419aa059f6591d4755fd1d20748bfbbe64b15
 url                      : "https://kimpmpddr.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +106,15 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "JiHyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "조금씩 커가는 중"
+=======
+  name             : "JiHyun!"
+#   avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "개발 입문자의 블로그"
+>>>>>>> 941419aa059f6591d4755fd1d20748bfbbe64b15
   location         : "Somewhere"
   email            :
   links:
@@ -118,6 +128,7 @@ author:
 # Site Footer
 footer:
   links:
+<<<<<<< HEAD
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url:
@@ -138,6 +149,15 @@ footer:
     #   # url:
 
 
+=======
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:"https://github.com/kimpmpddr"
+    - label: "GitBlog"
+      icon: "fab fa-fw fa-gitlab"
+      # url:"https://kimpmpddr.github.io/"
+    
+>>>>>>> 941419aa059f6591d4755fd1d20748bfbbe64b15
 # Reading Files
 include:
   - .htaccess
@@ -204,9 +224,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 #첫페이지에 보여줄 게시물 갯수
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/South Korea # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
