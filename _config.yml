@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "dark" #"air", "aqua", "dirt", "neon", "mint", "plum", "sunrise", "default", "contrast"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "Asian-South Korea"
+title                    : "JiHyun Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
