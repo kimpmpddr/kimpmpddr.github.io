@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" #"air", "aqua", "dirt", "neon", "mint", "plum"
 
 # Site Settings
 locale                   : "Asian-South Korea"
-title                    : "JiHyun Kim"
+title                    : "Go - Null"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "I am Gonull"
+name                     : "Jihyun"
 description              : "An amazing website."
 url                      : "https://kimpmpddr.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
