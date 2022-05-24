@@ -224,7 +224,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 #첫페이지에 보여줄 게시물 갯수
+paginate: 5 #첫페이지에 보여줄 게시물 갯수
 paginate_path: /page:num/
 timezone: Asia/South Korea # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
